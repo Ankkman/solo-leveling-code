@@ -1,1 +1,1 @@
-Java Practice code
+Java Practice Code
