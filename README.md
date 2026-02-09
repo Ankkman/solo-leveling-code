@@ -4,6 +4,8 @@ Java Practice Codes
 
 IntelliJ Idea
 
-Ctrl + Alt + A - Add   
 Ctrl + K - Commit   
 Ctrl + Shift + K - Commit and Push
+Ctrl + T - Update / Pull
+
+Ctrl + Alt + A - Add (optional)
