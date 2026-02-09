@@ -1,3 +1,5 @@
+package com.dsa.numbers;
+
 import java.util.Scanner;
 
 public class ThreeDivisors {
