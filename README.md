@@ -2,10 +2,10 @@ Java Practice Codes
 
 
 
-IntelliJ Idea
+IntelliJ Idea Keys
 
 Ctrl + K - Commit   
 Ctrl + Shift + K - Commit and Push   
-Ctrl + T - Update / Pull
+Ctrl + T - Update 
 
 Ctrl + Alt + A - Add (optional)
