@@ -1,4 +1,4 @@
-package com.dsa.numbers;
+package com.dsa.numbers.nqt;
 
 import java.util.Scanner;
 
