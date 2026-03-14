@@ -2,7 +2,9 @@ Java Practice Codes
 
 
 
-IntelliJ Idea Hot Keys
+
+
+IntelliJ Idea Hot Keys :
 
 Ctrl + K - Commit   
 Ctrl + Shift + K - Commit and Push   
