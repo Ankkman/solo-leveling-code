@@ -1,9 +1,6 @@
 Java Practice Codes
 
 
-
-
-
 IntelliJ Idea Hot Keys :
 
 Ctrl + K - Commit   
