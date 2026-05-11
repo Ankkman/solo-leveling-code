@@ -1,4 +1,4 @@
-Java Practice Codes
+Java Practice Code
 
 
 IntelliJ Idea Hot Keys :
